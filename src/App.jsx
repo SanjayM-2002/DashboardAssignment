@@ -12,7 +12,7 @@ function App() {
       {/* <div style={{ backgroundColor: 'blueviolet' }}>hello world</div> */}
       <div
         style={{
-          width: '100%',
+          width: '120%',
           // backgroundColor: 'yellow',
           // position: 'fixed',
           top: 0,
